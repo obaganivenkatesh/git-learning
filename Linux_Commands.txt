@@ -1,0 +1,41 @@
+1. mkdir---> Create new directory with given name.
+2. cd----> Change to directory
+3. touch---> Create empty files
+4. Cat> filename---> create new file and writes the content and ctrl+D to save the content into file.
+5. cat file1 file2>file3---->creates new file and content of both files will be copied to new file.
+6. cat--->disply content of file
+7. ls---->list the content of directory
+8. ls * .txt--->list all the files with given extension.
+9. pwd--->current working directory
+10. cp--->copy a file (or) directory
+11. mv--->moves a file (or) directory
+12. head--> display first 10 lines in a file
+13.tail---> Display last 10 lines in a file
+14.tac---> Display file content in reverse
+15.more--->similar to cat and here we can display large content by using ENTER,SPACEBAR.
+16.id--->display userid (or) groupid.
+17.clear--->Clear the screen
+18.vi--->text editor to write programs (or) text
+19.grep---> Filter to search given pattern in the file content.
+20.diff--->Compares the content of two different files.
+21.ping--->Check the connectivity status of server
+22.history--->Review all the commands which you have entered.
+23.hostname--->Display hostname
+24.hostname -i--->display host ip
+25.chmod--->change the user/group permissions to access file.
+26.nl--->display the line numbers
+27.wc--->Given number of lines, words and characters available in the file content.
+28. uniq--->Remove duplicates of file content/it can remove only continous duplicates.
+29. rmdir---> removes the specified directory(directory should be empty).
+30. rm---> remove file/directory(directory need not be empty).
+31. who--->who command is tool print information about users who are currently logged in. Who command only see a real user who logged in.
+32. uname--> this command return the name of the operating system.
+33. nslookup---> (stands for "Name server lookup")is a useful command for getting information from the DNS server.
+34. locate---> The locate command can find a file in the database system.
+35. tar---> The tar command is used to compress a group of files into an archive. The command is also used to extract,maintain or modify tar archives.
+36. man---> The man command in Linux is used to display the user manual of any command that we can run on the terminal.
+            it provides a detailed view of the command which includes Name, Synopsis, Description.
+37. cal---> The cal command displays a calendar of the specified year or month.
+38. echo--->echo command in linux is used to display line of text/string that are passed as an argument . This is a built in command that is mostly used in shell scripts and batch files to output status text to the screen or a file.
+39. userdel--->userdel command in Linux system is used to delete a user account and related files. This command basically modifies the system account files, deleting all the entries which refer to the username LOGIN. 
+40. 
